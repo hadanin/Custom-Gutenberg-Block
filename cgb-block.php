@@ -2,8 +2,8 @@
 /*
 	Plugin Name: Custom Gutenberg Block
 	Author: Nazanin Hesamzadeh
-	Version: 1.0.0
 	Description: Block containing title and description
+	Version: 1.0.0
 */
 function CustomGutenbergBlock(){
 	wp_enqueue_script(
